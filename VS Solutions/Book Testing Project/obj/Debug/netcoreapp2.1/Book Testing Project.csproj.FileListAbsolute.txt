@@ -1,0 +1,34 @@
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.deps.json
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.runtimeconfig.json
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.runtimeconfig.dev.json
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.pdb
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Library.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Library.pdb
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csprojAssemblyReference.cache
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csproj.CoreCompileInputs.cache
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.AssemblyInfoInputs.cache
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.AssemblyInfo.cs
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csproj.CopyComplete
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.dll
+C:\Users\Will\source\repos\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.deps.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.runtimeconfig.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.runtimeconfig.dev.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Testing Project.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Library.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\bin\Debug\netcoreapp2.1\Book Library.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.AssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.csproj.CopyComplete
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\Book Testing Project\obj\Debug\netcoreapp2.1\Book Testing Project.pdb

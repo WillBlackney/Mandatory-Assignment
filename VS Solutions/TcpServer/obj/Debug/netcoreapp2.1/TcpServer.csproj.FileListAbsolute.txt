@@ -1,0 +1,16 @@
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.deps.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.runtimeconfig.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.runtimeconfig.dev.json
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\TcpServer.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csprojAssemblyReference.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csproj.CoreCompileInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfoInputs.cache
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.AssemblyInfo.cs
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\Book Library.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\Book REST Service.dll
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\Book Library.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\bin\Debug\netcoreapp2.1\Book REST Service.pdb
+C:\Users\Will\Desktop\Unity Projects\Book-Library\Book Library\TcpServer\obj\Debug\netcoreapp2.1\TcpServer.csproj.CopyComplete
